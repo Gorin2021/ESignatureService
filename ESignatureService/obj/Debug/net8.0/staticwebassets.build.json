@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "pZHVquDqWHh3Dq4bEdDTbA7OKtaAhE2ez3MyQjfkoFE=",
+  "Source": "ESignatureService",
+  "BasePath": "_content/ESignatureService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
