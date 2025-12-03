@@ -1,0 +1,6 @@
+@ESignatureService_HostAddress = http://localhost:8087
+
+GET {{ESignatureService_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
